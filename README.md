@@ -1,6 +1,6 @@
 # flutter_google_authentication
 
-A new Flutter application.
+G-Mail Authentication.
 
 # ScreenShots
 
