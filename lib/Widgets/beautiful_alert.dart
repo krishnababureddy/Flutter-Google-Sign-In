@@ -1,12 +1,11 @@
 /**
- * Author: Damodar Lohani
- * profile: https://github.com/lohanidamodar
+ * Author: KrishnaBabuReddy
  */
 
 import 'package:flutter/material.dart';
-import 'package:flutter_google_authentication/register.dart';
+import 'package:flutter_google_authentication/FirebaseRepository/firebase_methods.dart';
+import 'package:flutter_google_authentication/Screens/register.dart';
 
-import 'firebase_methods.dart';
 
 class BeautifulAlertDialog extends StatelessWidget {
 

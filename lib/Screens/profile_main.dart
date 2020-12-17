@@ -1,15 +1,13 @@
 /**
- * Author: Damodar Lohani
- * profile: https://github.com/lohanidamodar
+ * Author: KrishnaBabuReddy
  */
 
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:flutter_google_authentication/register.dart';
-import 'package:flutter_google_authentication/user.dart';
-import 'package:flutter_google_authentication/firebase_repository.dart';
-import 'package:flutter_google_authentication/firebase_methods.dart';
-import 'package:flutter_google_authentication/beautiful_alert.dart';
+import 'package:flutter_google_authentication/FirebaseRepository/firebase_methods.dart';
+import 'package:flutter_google_authentication/FirebaseRepository/firebase_repository.dart';
+import 'package:flutter_google_authentication/Pojo/user.dart';
+import 'package:flutter_google_authentication/Widgets/beautiful_alert.dart';
 
 
 

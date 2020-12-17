@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:flutter_google_authentication/user.dart';
-import 'package:flutter_google_authentication/firebase_methods.dart';
-import 'package:flutter_google_authentication/message.dart';
+import 'package:flutter_google_authentication/Pojo/message.dart';
+import 'package:flutter_google_authentication/Pojo/user.dart';
 
+import 'firebase_methods.dart';
 
 
 class FirebaseRepository {

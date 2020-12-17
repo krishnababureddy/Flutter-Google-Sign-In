@@ -1,17 +1,15 @@
 /**
- * Author: Damodar Lohani
- * profile: https://github.com/lohanidamodar
+ * Author: KrishnaBabuReddy
  */
 
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-
-import 'package:flutter_google_authentication/firebase_repository.dart';
-import 'package:flutter_google_authentication/color_loader_3.dart';
-
-import 'package:flutter_google_authentication/profile_main.dart';
+import 'package:flutter_google_authentication/FirebaseRepository/firebase_repository.dart';
+import 'package:flutter_google_authentication/Screens/profile_main.dart';
+import 'package:flutter_google_authentication/Widgets/color_loader_3.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+
+
 
 
 

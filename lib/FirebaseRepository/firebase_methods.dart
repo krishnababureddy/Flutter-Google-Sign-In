@@ -1,10 +1,13 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:flutter_google_authentication/user.dart';
+import 'package:flutter_google_authentication/Pojo/message.dart';
+import 'package:flutter_google_authentication/Pojo/user.dart';
+import 'package:flutter_google_authentication/Utils/firebase_utilities.dart';
+import 'package:flutter_google_authentication/Utils/firebase_stringvalues.dart';
+
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:flutter_google_authentication/message.dart';
-import 'package:flutter_google_authentication/firebase_stringvalues.dart';
-import 'package:flutter_google_authentication/firebase_utilities.dart';
+
 import 'package:cloud_firestore/cloud_firestore.dart';
+
 
 class FirebaseMethods {
   final FirebaseAuth _auth = FirebaseAuth.instance;

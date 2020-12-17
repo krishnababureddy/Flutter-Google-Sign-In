@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_google_authentication/firebase_repository.dart';
-import 'package:flutter_google_authentication/register.dart';
-import 'package:flutter_google_authentication/profile_main.dart';
+
 import 'package:firebase_auth/firebase_auth.dart';
+
+import 'FirebaseRepository/firebase_repository.dart';
+import 'Screens/profile_main.dart';
+import 'Screens/register.dart';
 
 
 void main() {
