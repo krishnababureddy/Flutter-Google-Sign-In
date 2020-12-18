@@ -1,6 +1,4 @@
-# flutter_google_authentication
-
-G-Mail Authentication.
+# G-Mail Authentication App
 
 ## ScreenShots 📸 
 
